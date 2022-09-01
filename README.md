@@ -27,14 +27,28 @@ Created by Andre Okvironi
 <img src="Finish design/banner pkm dikti.jpg" width=75% height=75%>
 <br />
 <br/>
-<img src="" width=75% height=75%>
+<img src="Finish design/banner tasuka hijab.jpg" width=75% height=75%>
 <br />
 <br/>
-<img src="" width=75% height=75%>
+<img src="Finish design/banner wisuda presidium cm.jpg" width=75% height=75%>
 <br />
 <br/>
-<img src="" width=75% height=75%>
+<img src="Finish design/pamflet media award 2.jpg" width=75% height=75%>
 <br />
 <br/>
-<img src="" width=75% height=75%>
+<img src="Finish design/pamflet studi politik.jpg" width=75% height=75%>
+<br />
+<img src="Finish design/pangkas rambut ihkwan.jpg" width=75% height=75%>
+<br />
+<img src="Finish design/sertifikat on going.jpg" width=75% height=75%>
+<br />
+<img src="Finish design/tipografi.jpg" width=75% height=75%>
+<br />
+<img src="Finish design/wisuda d4 ec 18.jpg" width=75% height=75%>
+<br />
+<img src="Finish design/" width=75% height=75%>
+<br />
+<img src="Finish design/" width=75% height=75%>
+<br />
+<img src="Finish design/" width=75% height=75%>
 <br />
