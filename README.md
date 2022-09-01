@@ -21,6 +21,18 @@ Created by Andre Okvironi
 <img src="Finish design/Wisuda DIV EV 15.jpg" width=75% height=75%>
 <br />
 <br/>
+<img src="Finish design/banner SP.jpg" width=75% height=75%>
+<br />
+<br/>
+<img src="Finish design/banner pkm dikti.jpg" width=75% height=75%>
+<br />
+<br/>
+<img src="" width=75% height=75%>
+<br />
+<br/>
+<img src="" width=75% height=75%>
+<br />
+<br/>
 <img src="" width=75% height=75%>
 <br />
 <br/>
