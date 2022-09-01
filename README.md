@@ -46,6 +46,7 @@ Created by Andre Okvironi
   <img src="Finish design/glm.png" width=25% height=25%>
   <br/>
   <img src="Finish design/HAY LIGHT-2.png" width=25% height=25%>
+  <img src="Finish design/glm1.png" width=25% height=25%>
 </P>
 <br/>
 
